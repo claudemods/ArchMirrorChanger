@@ -21,10 +21,13 @@
 
 <div align="center">
 claudemods Arch Mirror Changer
-
+<div align="center">
 News v1.03 27-01-2024
+<div align="center">
 new options added such as desktops updating package list or upgrading
+<div align="center">
 updated qt6 cpp appimage
+<div align="center">
 new tui script
 
 Menu Options:
